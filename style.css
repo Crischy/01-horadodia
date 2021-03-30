@@ -1,0 +1,44 @@
+body {
+    background: #202020;
+    font: normal 16pt Arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 25px;
+    padding: 2%;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+    width: 75%;
+    margin: auto;
+}
+
+/*
+div {
+    text-align: center;
+    padding-top: 1%;
+}
+*/
+
+div#msg {
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+
+div#foto {
+    position: relative;
+    margin-left: 50%;
+    margin-top: 2%;
+    right: 175px;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
